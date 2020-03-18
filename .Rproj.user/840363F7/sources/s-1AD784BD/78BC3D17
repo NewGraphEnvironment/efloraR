@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1584554320075.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1190525960",
+    "id" : "78BC3D17",
+    "lastKnownWriteTime" : 1584554258,
+    "last_content_update" : 1584554258,
+    "path" : "C:/Users/allan/OneDrive/New_Graph/Current/Code/R/efloraR/R/02_efloraR_find_closest_occurences.R",
+    "project_path" : "R/02_efloraR_find_closest_occurences.R",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
